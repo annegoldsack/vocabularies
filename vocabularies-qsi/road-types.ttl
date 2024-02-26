@@ -23,7 +23,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "QLD, VIC, WA, NZ address data. Definition from WA property street address data dictionary." ;
     skos:inScheme cs: ;
     skos:prefLabel "Access"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -36,7 +36,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "NZ roads data." ;
     skos:inScheme cs: ;
     skos:prefLabel "Access Road"@en ;
-    skos:scopeNote "New Zealand only. Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "New Zealand only. Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -67,7 +67,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "VIC roads data." ;
     skos:inScheme cs: ;
     skos:prefLabel "Alleyway"@en ;
-    skos:scopeNote "Victoria only. Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Victoria only. Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -82,7 +82,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "VIC roads data." ;
     skos:inScheme cs: ;
     skos:prefLabel "Amble"@en ;
-    skos:scopeNote "Victoria only. Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Victoria only. Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -134,7 +134,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "NZ address data. Definition from NZ guidelines for addressing in-fill developments." ;
     skos:inScheme cs: ;
     skos:prefLabel "Ara"@en ;
-    skos:scopeNote "New Zealand only. Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "New Zealand only. Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -162,7 +162,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "QLD, VIC roads data" ;
     skos:inScheme cs: ;
     skos:prefLabel "Arterial"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -204,7 +204,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "VIC, WA address data. Definition from WA property street address data dictionary." ;
     skos:inScheme cs: ;
     skos:prefLabel "Banan"@en ;
-    skos:scopeNote "Western Australia only. Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Western Australia only. Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -227,7 +227,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "QLD, VIC, NZ roads data." ;
     skos:inScheme cs: ;
     skos:prefLabel "Bay"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -251,7 +251,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "NZ roads data" ;
     skos:inScheme cs: ;
     skos:prefLabel "Belt"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -267,7 +267,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "QLD, VIC, WA, NZ roads data. Definition from WA property street address data dictionary." ;
     skos:inScheme cs: ;
     skos:prefLabel "Bend"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -314,7 +314,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "VIC roads data." ;
     skos:inScheme cs: ;
     skos:prefLabel "Bowl"@en ;
-    skos:scopeNote "Victoria only. Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Victoria only. Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -329,7 +329,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "QLD, VIC, WA roads data. Definition from WA property street address data dictionary." ;
     skos:inScheme cs: ;
     skos:prefLabel "Brace"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -342,7 +342,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "VIC, WA, NZ roads data. Definition from WA property street address data dictionary." ;
     skos:inScheme cs: ;
     skos:prefLabel "Brae"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -373,7 +373,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "NZ roads data." ;
     skos:inScheme cs: ;
     skos:prefLabel "Bridge"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -398,7 +398,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "QLD roads data." ;
     skos:inScheme cs: ;
     skos:prefLabel "Broadway"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -411,7 +411,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "VIC, WA roads data. Definition from WA property street address data dictionary." ;
     skos:inScheme cs: ;
     skos:prefLabel "Brow"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -464,7 +464,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "VIC roads data." ;
     skos:inScheme cs: ;
     skos:prefLabel "Causeway"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -553,7 +553,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "QLD, TAS, VIC roads data." ;
     skos:inScheme cs: ;
     skos:prefLabel "Circus"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -605,7 +605,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "VIC, NZ roads data." ;
     skos:inScheme cs: ;
     skos:prefLabel "Common"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -645,7 +645,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "QLD, VIC roads data." ;
     skos:inScheme cs: ;
     skos:prefLabel "Connection"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -660,7 +660,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "VIC, WA roads data. Definition from WA property street address data dictionary." ;
     skos:inScheme cs: ;
     skos:prefLabel "Copse"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -675,7 +675,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "QLD, VIC, WA roads data. Definition from WA property street address data dictionary." ;
     skos:inScheme cs: ;
     skos:prefLabel "Corner"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -689,7 +689,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "QLD, VIC roads data." ;
     skos:inScheme cs: ;
     skos:prefLabel "Corso"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -732,7 +732,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "NZ roads data." ;
     skos:inScheme cs: ;
     skos:prefLabel "Courts"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -747,7 +747,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "VIC, WA roads data. Definition from WA property street address data dictionary." ;
     skos:inScheme cs: ;
     skos:prefLabel "Courtyard"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -763,7 +763,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "QLD, VIC, WA, NZ roads data. Definition from WA property street address data dictionary." ;
     skos:inScheme cs: ;
     skos:prefLabel "Cove"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -829,7 +829,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "QLD, VIC roads data." ;
     skos:inScheme cs: ;
     skos:prefLabel "Cross"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -843,7 +843,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "QLD, VIC roads data." ;
     skos:inScheme cs: ;
     skos:prefLabel "Crossing"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -880,7 +880,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "VIC roads data." ;
     skos:inScheme cs: ;
     skos:prefLabel "Cutting"@en ;
-    skos:scopeNote "Victoria only. Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Victoria only. Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -893,7 +893,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "VIC, WA roads data. Definition from WA property street address data dictionary." ;
     skos:inScheme cs: ;
     skos:prefLabel "Dale"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -921,7 +921,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "VIC, NZ roads data." ;
     skos:inScheme cs: ;
     skos:prefLabel "Dell"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -946,7 +946,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "QLD, VIC roads data." ;
     skos:inScheme cs: ;
     skos:prefLabel "Deviation"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -1027,7 +1027,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "NZ roads data." ;
     skos:inScheme cs: ;
     skos:prefLabel "Downs"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -1055,7 +1055,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "QLD, VIC roads data" ;
     skos:inScheme cs: ;
     skos:prefLabel "Driveway"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -1069,7 +1069,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "QLD roads data." ;
     skos:inScheme cs: ;
     skos:prefLabel "Easement"@en ;
-    skos:scopeNote "Queensland only. Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Queensland only. Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -1082,7 +1082,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "VIC, WA roads data. Definition from WA property street address data dictionary." ;
     skos:inScheme cs: ;
     skos:prefLabel "Edge"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -1097,7 +1097,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "QLD, VIC, WA roads data. Definition from WA property street address data dictionary." ;
     skos:inScheme cs: ;
     skos:prefLabel "Elbow"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -1110,7 +1110,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "QLD, VIC, WA, NZ roads data. Definition from WA property street address data dictionary." ;
     skos:inScheme cs: ;
     skos:prefLabel "End"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -1165,7 +1165,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "VIC, NZ roads data." ;
     skos:inScheme cs: ;
     skos:prefLabel "Expressway"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -1182,7 +1182,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "QLD, VIC, WA roads data. Definition from WA property street address data dictionary." ;
     skos:inScheme cs: ;
     skos:prefLabel "Fairway"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -1196,7 +1196,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "QLD, VIC roads data." ;
     skos:inScheme cs: ;
     skos:prefLabel "Firebreak"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -1210,7 +1210,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "QLD, VIC roads data." ;
     skos:inScheme cs: ;
     skos:prefLabel "Fireline"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -1272,7 +1272,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "VIC, WA roads data. Definition from WA property street address data dictionary." ;
     skos:inScheme cs: ;
     skos:prefLabel "Follow"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -1331,7 +1331,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "VIC, WA roads data. Definition from WA property street address data dictionary." ;
     skos:inScheme cs: ;
     skos:prefLabel "Formation"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -1372,7 +1372,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "VIC, WA roads data. Definition from WA property street address data dictionary." ;
     skos:inScheme cs: ;
     skos:prefLabel "Frontage"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -1385,7 +1385,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "QLD, VIC, WA roads data. Definition from WA property street address data dictionary." ;
     skos:inScheme cs: ;
     skos:prefLabel "Gap"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -1411,7 +1411,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "QLD, TAS, VIC, WA, NZ roads data. Definition from WA property street address data dictionary." ;
     skos:inScheme cs: ;
     skos:prefLabel "Gardens"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -1426,7 +1426,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "QLD, VIC, WA, NZ roads data. Definition from WA property street address data dictionary." ;
     skos:inScheme cs: ;
     skos:prefLabel "Gate"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -1441,7 +1441,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "VIC roads data." ;
     skos:inScheme cs: ;
     skos:prefLabel "Gateway"@en ;
-    skos:scopeNote "Victoria only. Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Victoria only. Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -1473,7 +1473,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "QLD, TAS, VIC, WA, NZ roads data. Definition from WA property street address data dictionary." ;
     skos:inScheme cs: ;
     skos:prefLabel "Glen"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -1547,7 +1547,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "QLD, VIC, WA roads data. Definition from WA property street address data dictionary." ;
     skos:inScheme cs: ;
     skos:prefLabel "Gully"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -1572,7 +1572,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "QLD, VIC, NZ roads data" ;
     skos:inScheme cs: ;
     skos:prefLabel "Haven"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -1587,7 +1587,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "VIC roads data." ;
     skos:inScheme cs: ;
     skos:prefLabel "Heath"@en ;
-    skos:scopeNote "Victoria only. Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Victoria only. Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -1602,7 +1602,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "QLD, TAS, VIC, WA, NZ roads data. Definition from WA property street address data dictionary." ;
     skos:inScheme cs: ;
     skos:prefLabel "Heights"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -1643,7 +1643,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "QLD, VIC, WA, NZ roads data. Definition from WA property street address data dictionary." ;
     skos:inScheme cs: ;
     skos:prefLabel "Hill"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -1680,7 +1680,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "VIC, WA roads data. Definition from WA property street address data dictionary." ;
     skos:inScheme cs: ;
     skos:prefLabel "Interchange"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -1695,7 +1695,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "VIC, WA roads data. Definition from WA property street address data dictionary." ;
     skos:inScheme cs: ;
     skos:prefLabel "Junction"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -1710,7 +1710,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "QLD, VIC, WA, NZ roads data. Definition from WA property street address data dictionary." ;
     skos:inScheme cs: ;
     skos:prefLabel "Key"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -1760,7 +1760,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "QLD, VIC, NZ roads data." ;
     skos:inScheme cs: ;
     skos:prefLabel "Landing"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -1786,7 +1786,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "QLD, VIC roads data" ;
     skos:inScheme cs: ;
     skos:prefLabel "Laneway"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -1810,7 +1810,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "VIC, WA, NZ roads data. Definition from WA property street address data dictionary." ;
     skos:inScheme cs: ;
     skos:prefLabel "Line"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -1823,7 +1823,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "QLD, TAS, VIC, WA, NZ roads data. Definition from WA property street address data dictionary." ;
     skos:inScheme cs: ;
     skos:prefLabel "Link"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -1836,7 +1836,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "VIC, WA roads data. Definition from WA property street address data dictionary." ;
     skos:inScheme cs: ;
     skos:prefLabel "Lookout"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -1864,7 +1864,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "NZ roads data" ;
     skos:inScheme cs: ;
     skos:prefLabel "Loop Road"@en ;
-    skos:scopeNote "New Zealand only. Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "New Zealand only. Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -1922,7 +1922,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "VIC, WA roads data. Definition from WA property street address data dictionary." ;
     skos:inScheme cs: ;
     skos:prefLabel "Meander"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -1958,7 +1958,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "NZ roads data." ;
     skos:inScheme cs: ;
     skos:prefLabel "Mile"@en ;
-    skos:scopeNote "New Zealand only. Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "New Zealand only. Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -1972,7 +1972,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "QLD, VIC, NZ roads data." ;
     skos:inScheme cs: ;
     skos:prefLabel "Motorway"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -1985,7 +1985,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "TAS, VIC, WA roads data. Definition from WA property street address data dictionary." ;
     skos:inScheme cs: ;
     skos:prefLabel "Nook"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -1998,7 +1998,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "NZ roads data." ;
     skos:inScheme cs: ;
     skos:prefLabel "Oaks"@en ;
-    skos:scopeNote "New Zealand only. Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "New Zealand only. Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -2010,7 +2010,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "TAS, VIC roads data." ;
     skos:inScheme cs: ;
     skos:prefLabel "Outlet"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -2023,7 +2023,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "QLD, VIC, WA roads data. Definition from WA property street address data dictionary." ;
     skos:inScheme cs: ;
     skos:prefLabel "Outlook"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -2038,7 +2038,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "NZ roads data." ;
     skos:inScheme cs: ;
     skos:prefLabel "Paddock"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -2067,7 +2067,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "QLD, TAS, VIC, NZ roads data." ;
     skos:inScheme cs: ;
     skos:prefLabel "Park"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -2107,7 +2107,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "QLD, VIC, WA, NZ roads data. Definition from WA property street address data dictionary." ;
     skos:inScheme cs: ;
     skos:prefLabel "Pass"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -2150,7 +2150,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "QLD, VIC, WA roads data. Definition from WA property street address data dictionary." ;
     skos:inScheme cs: ;
     skos:prefLabel "Pathway"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -2223,7 +2223,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "QLD, VIC, WA, NZ roads data. Definition from WA property street address data dictionary." ;
     skos:inScheme cs: ;
     skos:prefLabel "Point"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -2236,7 +2236,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "VIC, WA roads data. Definition from WA property street address data dictionary." ;
     skos:inScheme cs: ;
     skos:prefLabel "Port"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -2298,7 +2298,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "TAS, VIC, WA roads data. Definition from WA property street address data dictionary." ;
     skos:inScheme cs: ;
     skos:prefLabel "Quadrant"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -2342,7 +2342,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "VIC, WA roads data. Definition from WA property street address data dictionary." ;
     skos:inScheme cs: ;
     skos:prefLabel "Ramble"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -2537,7 +2537,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "NZ roads data." ;
     skos:inScheme cs: ;
     skos:prefLabel "Roadway"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -2552,7 +2552,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "VIC, WA roads data. Definition from WA property street address data dictionary." ;
     skos:inScheme cs: ;
     skos:prefLabel "Rotary"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -2567,7 +2567,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "VIC roads data." ;
     skos:inScheme cs: ;
     skos:prefLabel "Round"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -2582,7 +2582,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "TAS, VIC, WA roads data. Definition from WA property street address data dictionary." ;
     skos:inScheme cs: ;
     skos:prefLabel "Route"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -2595,7 +2595,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "QLD, TAS, VIC, WA, NZ roads data. Definition from WA property street address data dictionary." ;
     skos:inScheme cs: ;
     skos:prefLabel "Row"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -2619,7 +2619,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "VIC roads data." ;
     skos:inScheme cs: ;
     skos:prefLabel "Run"@en ;
-    skos:scopeNote "Victoria only. Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Victoria only. Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -2645,7 +2645,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "VIC, WA roads data. Definition from WA property street address data dictionary." ;
     skos:inScheme cs: ;
     skos:prefLabel "Shunt"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -2658,7 +2658,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "NZ roads data." ;
     skos:inScheme cs: ;
     skos:prefLabel "Side Road"@en ;
-    skos:scopeNote "New Zealand only. Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "New Zealand only. Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -2695,7 +2695,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "VIC roads data." ;
     skos:inScheme cs: ;
     skos:prefLabel "Slope"@en ;
-    skos:scopeNote "Victoria only. Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Victoria only. Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -2708,7 +2708,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "TAS, VIC, WA, NZ roads data. Definition from WA property street address data dictionary." ;
     skos:inScheme cs: ;
     skos:prefLabel "Spur"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -2761,7 +2761,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "QLD address data." ;
     skos:inScheme cs: ;
     skos:prefLabel "Strait"@en ;
-    skos:scopeNote "Queensland only. Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Queensland only. Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -2800,7 +2800,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "QLD, VIC roads data." ;
     skos:inScheme cs: ;
     skos:prefLabel "Strip"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -2828,7 +2828,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "VIC, WA roads data. Definition from WA property street address data dictionary." ;
     skos:inScheme cs: ;
     skos:prefLabel "Tarn"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -2841,7 +2841,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "NZ address data. Definition from NZ guidelines for addressing in-fill developments." ;
     skos:inScheme cs: ;
     skos:prefLabel "Te Ara"@en ;
-    skos:scopeNote "New Zealand only. Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "New Zealand only. Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -2879,7 +2879,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "VIC, WA roads data. Definition from WA property street address data dictionary." ;
     skos:inScheme cs: ;
     skos:prefLabel "Top"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -2892,7 +2892,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "VIC, WA roads data. Definition from WA property street address data dictionary." ;
     skos:inScheme cs: ;
     skos:prefLabel "Tor"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -2969,7 +2969,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "VIC roads data." ;
     skos:inScheme cs: ;
     skos:prefLabel "Tunnel"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -2982,7 +2982,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "VIC, WA roads data. Definition from WA property street address data dictionary." ;
     skos:inScheme cs: ;
     skos:prefLabel "Turn"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -3008,7 +3008,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "VIC, WA roads data. Definition from WA property street address data dictionary." ;
     skos:inScheme cs: ;
     skos:prefLabel "Underpass"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -3021,7 +3021,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "QLD, VIC, WA, NZ roads data. Definition from WA property street address data dictionary." ;
     skos:inScheme cs: ;
     skos:prefLabel "Vale"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -3038,7 +3038,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "VIC, NZ roads data." ;
     skos:inScheme cs: ;
     skos:prefLabel "Valley"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -3081,7 +3081,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "VIC, NZ roads data." ;
     skos:inScheme cs: ;
     skos:prefLabel "Views"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -3149,7 +3149,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "TAS, VIC, WA roads data. Definition from WA property street address data dictionary." ;
     skos:inScheme cs: ;
     skos:prefLabel "Walkway"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011)." ;
     skos:topConceptOf cs: ;
 .
 
@@ -3163,7 +3163,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "QLD, VIC roads data." ;
     skos:inScheme cs: ;
     skos:prefLabel "Waters"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -3224,7 +3224,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:historyNote "VIC, WA roads data. Definition from WA property street address data dictionary." ;
     skos:inScheme cs: ;
     skos:prefLabel "Wynd"@en ;
-    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS2819:2011). " ;
+    skos:scopeNote "Not to be used for roads named after 2011 (AS/NZS4819:2011). " ;
     skos:topConceptOf cs: ;
 .
 
@@ -3261,7 +3261,7 @@ cs:
     reg:status agldwgstatus:experimental ;
     owl:versionIRI :1.0 ;
     owl:versionInfo "1.0" ;
-    skos:definition "This vocabulary describes road types. A road type is used as part of a road name and distinguishes the type of road. The road types that do not meet AS/NZS 4819:2011 exist to enable inclusion of roads named prior to the creation of AS/NZS 4819:2011. These types should not be used for any new road designations"@en ;
+    skos:definition "This vocabulary describes road types. A road type is used as part of a road name and distinguishes the type of road. The road types that do not meet AS/NZS4819:2011 exist to enable inclusion of roads named prior to the creation of AS/NZS 4819:2011. These types should not be used for any new road designations"@en ;
     skos:hasTopConcept
         :access ,
         :access-road ,
